@@ -21,10 +21,10 @@ Trun input image to YCbCr then only process the Y part
 Use resize() in PIL.Image for resize input image when testing
 
 # Superparaneter
-Initial LR = 0.1
-Step = 10
-gamma = 0.1
-momentum=0.9
+Initial LR = 0.1,
+Step = 10,
+gamma = 0.1,
+momentum=0.9,
 weight decay = 0.0001
 
 Clipping gradients at the threshold 0.4
