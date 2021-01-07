@@ -1,7 +1,7 @@
 # DL_HW4
-homework4 for selected topic for visual reconition with deep learning 2020
+Homework 4 for selected topic for visual reconition with deep learning 2020
 
-reference: https://github.com/twtygqyy/pytorch-vdsr
+Reference: https://github.com/twtygqyy/pytorch-vdsr
 
 # Guild
 Trained using train.h5
