@@ -22,6 +22,7 @@ Use resize() in PIL.Image for resize input image when testing
 
 # Superparaneter
 Train for 50 epochs
+
 Use stochastic gradient decent for optimizer
 
 Initial LR = 0.1,
