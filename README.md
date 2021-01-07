@@ -32,4 +32,3 @@ momentum=0.9,
 weight decay = 0.0001
 
 Clipping gradients at the threshold 0.4
-
