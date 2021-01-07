@@ -21,6 +21,8 @@ Trun input image to YCbCr then only process the Y part
 Use resize() in PIL.Image for resize input image when testing
 
 # Superparaneter
+Train for 50 epochs
+
 Initial LR = 0.1,
 Step = 10,
 gamma = 0.1,
